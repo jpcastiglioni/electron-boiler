@@ -1,12 +1,12 @@
 {
-  "name": "electron-quick-start",
-  "version": "1.0.0",
+  "name": "Electron-test-app",
+  "version": "0.0.0",
   "description": "A minimal Electron application",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/jpcastiglioni/electron-boiler.git",
   "keywords": [
     "Electron",
     "quick",
@@ -14,7 +14,7 @@
     "tutorial",
     "demo"
   ],
-  "author": "GitHub",
+  "author": "JPCD",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^12.0.0"
